@@ -1,6 +1,6 @@
 [user]
-    email = jon.binney@gmail.com
-    name = Jon Binney
+    email = winnie@ironox.com
+    name = Winnie Ding
 
 [credential]
     helper = cache --timeout=7200
